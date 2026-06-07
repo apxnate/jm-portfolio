@@ -24,7 +24,7 @@ export default function Avatar({ state = 'idle', size = 140 }: AvatarProps) {
   const loadedCount = useRef(0)
   const currentFrame = useRef<number>(DEFAULT_FRAME)
   const targetFrame = useRef<number>(DEFAULT_FRAME)
-  const rafId = useRef<number>()
+  const rafId = useRef<number>(0)
   const sizeRef = useRef(size)
   const [allReady, setAllReady] = useState(false)
   const reduced = useReducedMotion()
