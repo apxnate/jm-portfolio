@@ -219,7 +219,7 @@ export default function ProjectCards() {
         Selected Work
       </p>
 
-      <div style={{ display: 'grid', gridTemplateColumns: '1fr', gap: 12 }}>
+      <div className="projects-grid">
         {projects.map((project, i) => (
           <motion.a
             key={project.id}
