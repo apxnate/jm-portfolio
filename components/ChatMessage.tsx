@@ -73,17 +73,21 @@ export default function ChatMessage({ message, isStreaming }: ChatMessageProps) 
       style={{ display: 'flex', justifyContent: 'flex-start' }}
     >
       <div
+        className="assistant-message"
         style={{
           width: '100%',
           maxWidth: '100%',
+          minWidth: 0,
           display: 'flex',
           flexDirection: 'column',
           gap: 8,
         }}
       >
         <div
+          className="assistant-bubble"
           style={{
             maxWidth: '82%',
+            minWidth: 0,
             background: 'var(--ai-bubble)',
             border: '1px solid var(--ai-border)',
             borderRadius: '16px 16px 16px 4px',
