@@ -8,7 +8,7 @@ export const maxDuration = 30
 function getModel() {
   if (process.env.GROQ_API_KEY) {
     const groq = createGroq({ apiKey: process.env.GROQ_API_KEY })
-    return groq('llama-3.3-70b-versatile')
+    return groq('openai/gpt-oss-120b')
   }
   if (process.env.OPENAI_API_KEY) {
     const openai = createOpenAI({ apiKey: process.env.OPENAI_API_KEY })
