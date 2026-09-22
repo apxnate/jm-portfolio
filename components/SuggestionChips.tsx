@@ -6,7 +6,7 @@ const CHIPS = [
   { label: 'Show me your best projects', emoji: '🚀' },
   { label: 'What tools do you use?',     emoji: '🛠️' },
   { label: 'How can we collaborate?',    emoji: '🤝' },
-  { label: 'Tell me about your SEO work', emoji: '📈' },
+  { label: 'Show my content & AI work',  emoji: '✍️' },
 ]
 
 interface SuggestionChipsProps {
