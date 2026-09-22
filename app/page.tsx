@@ -241,7 +241,7 @@ export default function Home() {
             >
               <div
                 style={{
-                  maxWidth: 660, margin: '0 auto',
+                  maxWidth: 1100, margin: '0 auto',
                   padding: '24px 24px',
                   display: 'flex', flexDirection: 'column', gap: 16,
                 }}
@@ -323,7 +323,7 @@ export default function Home() {
 
         <form
           onSubmit={handleSubmit}
-          style={{ maxWidth: 660, margin: '0 auto' }}
+          style={{ maxWidth: 1100, margin: '0 auto' }}
         >
           <div
             className="chat-input-wrap"
