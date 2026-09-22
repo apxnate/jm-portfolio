@@ -30,7 +30,8 @@ I've supported UK-based small businesses with regular website, design, SEO, and 
 **Forms & Booking:** Contact Form 7, Elementor Forms, Forminator, Amelia, Bookly Pro
 **SEO & Content:** Yoast SEO, Rank Math, Google Search Console, keyword placement, meta descriptions, SEO-friendly headings, blog formatting
 **Design:** Canva, Adobe Photoshop, Adobe Illustrator, Figma, social media graphics, flyers, event posters, menus, brand layouts
-**Email & Productivity:** Mailchimp, SMTP support, Google Workspace, Trello, Buffer, SmarterQueue, Microsoft Teams, Zoom
+**Email, Scheduling & Productivity:** Mailchimp, SMTP support, Google Workspace, Trello, Buffer, Publer, SmarterQueue, Microsoft Teams, Zoom
+**Video & AI Content:** CapCut, Kling AI
 **Translation:** Google Translate plugin, multilingual/currency setup
 
 ## Content Specialist & AI Workflow
@@ -44,7 +45,7 @@ I am well suited to content-specialist work that begins with existing source mat
 - **Email content:** Create newsletter copy, subject lines, preview text, promotional emails, and structured campaign content.
 - **Blog and SEO writing:** Produce useful, search-focused blog content with clear headings, internal links, metadata, and calls to action.
 - **Social content:** Adapt hooks, length, formatting, tone, and calls to action for Facebook, Instagram, LinkedIn-style posts, X, and short-form video.
-- **Podcast and video tools:** Comfortable working with Riverside, OpusClip, Canva, transcripts, audio files, and short-form video workflows.
+- **Content scheduling and video tools:** Comfortable working with Publer, SmarterQueue, CapCut, Kling AI, Canva, transcripts, audio files, and short-form video workflows.
 
 ### Thoughtful AI Use
 - Comfortable using ChatGPT and approved AI tools for brainstorming, outlining, repurposing, research support, and first drafts.
