@@ -74,7 +74,8 @@ export default function ChatMessage({ message, isStreaming }: ChatMessageProps) 
     >
       <div
         style={{
-          maxWidth: '82%',
+          width: '100%',
+          maxWidth: '100%',
           display: 'flex',
           flexDirection: 'column',
           gap: 8,
@@ -82,6 +83,7 @@ export default function ChatMessage({ message, isStreaming }: ChatMessageProps) 
       >
         <div
           style={{
+            maxWidth: '82%',
             background: 'var(--ai-bubble)',
             border: '1px solid var(--ai-border)',
             borderRadius: '16px 16px 16px 4px',
