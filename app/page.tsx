@@ -148,7 +148,7 @@ export default function Home() {
                 textAlign: 'center', letterSpacing: '0.01em', marginBottom: 4,
               }}
             >
-              WordPress Developer &amp; SEO Specialist
+              Content Specialist &amp; WordPress Developer
             </motion.p>
 
             {/* Location */}
@@ -209,7 +209,7 @@ export default function Home() {
                   John Mark Dulce
                 </p>
                 <p style={{ fontSize: '0.72rem', color: 'var(--accent)', lineHeight: 1.2 }}>
-                  WordPress Developer &amp; SEO Specialist
+                  Content Specialist &amp; WordPress Developer
                 </p>
               </div>
 
