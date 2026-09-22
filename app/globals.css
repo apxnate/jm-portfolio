@@ -346,3 +346,49 @@ body {
     grid-template-columns: 1fr;
   }
 }
+
+
+/* Keep AI markdown content inside the mobile viewport */
+.assistant-message,
+.assistant-bubble,
+.prose-chat {
+  min-width: 0;
+}
+
+.prose-chat {
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+
+.prose-chat table {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  overflow-x: auto;
+  border-collapse: collapse;
+  -webkit-overflow-scrolling: touch;
+}
+
+.prose-chat th,
+.prose-chat td {
+  min-width: 130px;
+  padding: 0.45rem 0.6rem;
+  text-align: left;
+  vertical-align: top;
+}
+
+@media (max-width: 760px) {
+  .assistant-bubble {
+    width: 100%;
+    max-width: 100% !important;
+  }
+
+  .prose-chat {
+    font-size: 0.875rem;
+  }
+
+  .prose-chat th,
+  .prose-chat td {
+    min-width: 120px;
+  }
+}
